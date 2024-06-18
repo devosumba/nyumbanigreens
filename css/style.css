@@ -9313,6 +9313,16 @@ textarea.form-control {
       border: 2px solid #fff !important; }
   .ftco-footer p {
     color: rgba(255, 255, 255, 0.7); }
+  .ftco-footer h5 {
+    margin-top: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+  }
+  .ftco-footer h5{
+    font-weight: normal;
+    color: #fff;
+  }
   .ftco-footer a {
     color: #70BF47; }
     .ftco-footer a:hover {
